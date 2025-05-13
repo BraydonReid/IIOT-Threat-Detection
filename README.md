@@ -17,16 +17,13 @@ can be addressed to prevent any disruption or safety hazards in the Industrial I
 
 
 Sources:
-[1]  
-What Is Industrial IoT (IIoT)? Cisco. https://www.cisco.com/c/en/us/solutions/internet-of
+[1]  What Is Industrial IoT (IIoT)? Cisco. https://www.cisco.com/c/en/us/solutions/internet-of
 things/what-is-industrial-iot.html#~role-of-it. 
-[2]  
-FAHIM AL ISLAM, MD. SHAMSUZZAMAN, MD. SHOHANUR ISLAM, SHAHIDUL AHAD 
+
+[2]  FAHIM AL ISLAM, MD. SHAMSUZZAMAN, MD. SHOHANUR ISLAM, SHAHIDUL AHAD 
 SAKIB, ABU SAYED MD. MOSTAFIZUR RAHAMAN, March 6, 2025, "BRURIIoT: A Dataset for 
 Network Anomaly Detection in IIoT with an Enhanced Feature Engineering Approach", IEEE 
 Dataport, doi: https://dx.doi.org/10.21227/fqqe-g413. 
-[3] 
-Visconti P, Rausa G, Del-Valle-Soto C, Velázquez R, Donato Cafagna, Fazio RD. 2024. Machine 
-Learning and IoT-Based Solutions in Industrial Applications for Smart Manufacturing: A Critical Review. 
-Future Internet. 16(11):394–394. doi:https://doi.org/10.3390/fi16110394. https://www.mdpi.com/1999
-5903/16/11/394.
+
+[3] Visconti P, Rausa G, Del-Valle-Soto C, Velázquez R, Donato Cafagna, Fazio RD. 2024. Machine 
+Learning and IoT-Based Solutions in Industrial Applications for Smart Manufacturing: A Critical Review. Future Internet. 16(11):394–394. doi:https://doi.org/10.3390/fi16110394. https://www.mdpi.com/19995903/16/11/394.
