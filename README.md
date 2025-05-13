@@ -17,6 +17,7 @@ can be addressed to prevent any disruption or safety hazards in the Industrial I
 
 
 Sources:
+
 [1]  What Is Industrial IoT (IIoT)? Cisco. https://www.cisco.com/c/en/us/solutions/internet-of
 things/what-is-industrial-iot.html#~role-of-it. 
 
